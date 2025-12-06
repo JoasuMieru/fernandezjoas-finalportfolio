@@ -4,9 +4,9 @@ A modern, responsive personal portfolio website showcasing my biography, technic
 
 ## 🚀 Live Demo
 
-**Live URL:** [https://fernandezjoas.github.io/fernandezjoas-portfolio](https://fernandezjoas.github.io/fernandezjoas-portfolio)
+**Live URL:** [https://joasumieru.github.io/fernandezjoas-finalportfolio](https://joasumieru.github.io/fernandezjoas-finalportfolio)
 
-**Repository URL:** [https://github.com/fernandezjoas/fernandezjoas-portfolio](https://github.com/fernandezjoas/fernandezjoas-portfolio)
+**Repository URL:** [https://github.com/JoasuMieru/fernandezjoas-finalportfolio](https://github.com/JoasuMieru/fernandezjoas-finalportfolio)
 
 ## 📋 Project Overview
 
@@ -44,20 +44,29 @@ This is a personal portfolio website built as a final project for IT Elective 4.
   - Desktop screens
 
 ### Sections
-1. **Hero Section** - Eye-catching introduction with name, tagline, and call-to-action button
+1. **Hero Section** - Eye-catching introduction with name, tagline, profile picture, and call-to-action button
 2. **About Me** - Professional biography with profile photo
-3. **Skills** - Visual representation of technical skills with progress bars
-4. **Projects Gallery** - Showcase of at least 3 projects with screenshots and links
+3. **Skills** - Visual representation of technical skills with progress bars (HTML5, CSS3, Bootstrap 5, JavaScript, Git & GitHub, Web Design)
+4. **Projects Gallery** - Showcase of 3 projects:
+   - **CampusCheck** - Face Recognition Attendance Monitoring System (Laravel, React Native, Bootstrap)
+   - **Joas Booking System** - Interactive booking application (Laravel, Bootstrap)
+   - **1st Elective3 Activity** - Simple portfolio website (HTML, CSS, Bootstrap)
 5. **Contact** - Contact form and social media links
 
 ## 📁 Project Structure
 
 ```
-fernandezjoas-portfolio/
+fernandezjoas-finalportfolio/
 │
 ├── index.html          # Main HTML file
 ├── css/
 │   └── style.css      # Custom CSS with Bootstrap overrides
+├── img/                # Project images and assets
+│   ├── pfp1.jpg       # Hero section profile picture
+│   ├── pfp2.jpg       # About section profile picture
+│   ├── campusc.jpg    # CampusCheck project image
+│   ├── book1.jpg      # Booking System project image
+│   └── 1stact.png     # First Activity project image
 ├── README.md          # Project documentation
 └── .gitignore         # Git ignore file
 ```
@@ -88,12 +97,12 @@ The custom CSS file includes extensive Bootstrap overrides:
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/fernandezjoas/fernandezjoas-portfolio.git
+git clone https://github.com/JoasuMieru/fernandezjoas-finalportfolio.git
 ```
 
 2. Navigate to the project directory:
 ```bash
-cd fernandezjoas-portfolio
+cd fernandezjoas-finalportfolio
 ```
 
 3. Open `index.html` in your web browser
@@ -146,8 +155,8 @@ This project is created for educational purposes as part of IT Elective 4 course
 ## 👤 Author
 
 **Joas Fernandez**
-- Portfolio: [Live Demo](https://fernandezjoas.github.io/fernandezjoas-portfolio)
-- GitHub: [@fernandezjoas](https://github.com/fernandezjoas)
+- Portfolio: [Live Demo](https://joasumieru.github.io/fernandezjoas-finalportfolio)
+- GitHub: [@JoasuMieru](https://github.com/JoasuMieru)
 
 ## 🙏 Acknowledgments
 
