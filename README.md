@@ -10,7 +10,7 @@ A modern, responsive personal portfolio website showcasing my biography, technic
 
 ## 📋 Project Overview
 
-This is a personal portfolio website built as a final project for IT Elective 4. The website serves as a digital resume, showcasing my biography, technical skills, and a collection of academic and personal projects.
+This is a personal portfolio website built as a final project for IT ELECTIVE 3. The website serves as a digital resume, showcasing my biography, technical skills, and a collection of academic and personal projects.
 
 ## 🛠️ Technology Stack
 
@@ -150,7 +150,7 @@ Edit the CSS variables in `css/style.css`:
 
 ## 📄 License
 
-This project is created for educational purposes as part of IT Elective 4 coursework.
+This project is created for educational purposes as part of IT ELECTIVE 3 coursework.
 
 ## 👤 Author
 
@@ -167,7 +167,7 @@ This project is created for educational purposes as part of IT Elective 4 course
 
 ---
 
-**Course:** IT Elective 4  
+**Subject:** IT ELECTIVE 3  
 **Project Type:** Final Project - Personal Portfolio Website  
 **Submission Date:** December 2025
 
